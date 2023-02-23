@@ -181,24 +181,7 @@ lang: ja_JP
   </g>
  </g>
 </svg>
-<!--ひらがなの「い」の中に、縦書きで332と書かれている。文字はドットになっていて少し立体になっている。-->
- <details>
-    <summary>
-    voice_声
-　　</summary>
-    <figure>
-    <figcaption>日本語/jp</figcaption>
-    <audio
-        controls
-        src="">
-    </audio>
-    <figcaption>en/英語</figcaption>
-      <audio
-        controls
-        src="">
-    </audio>
-</figure>
-</details>
+
 
 <h3>2023.2/20</h3>
 
@@ -12249,24 +12232,6 @@ lang: ja_JP
   </g>
  </g>
 </svg>
-<!--ドーナツをやわらかくして、押し込んだような形。-->
- <details>
-    <summary>
-    voice_声
-　　</summary>
-    <figure>
-    <figcaption>日本語/jp</figcaption>
-    <audio
-        controls
-        src="">
-    </audio>
-    <figcaption>en/英語</figcaption>
-      <audio
-        controls
-        src="">
-    </audio>
-</figure>
-</details>
 
 <h3>2023.2/22</h3>
 
@@ -14001,24 +13966,6 @@ lang: ja_JP
   </g>
  </g>
 </svg>
-<!--立体物の輪郭を抽出した絵。-->
- <details>
-    <summary>
-    voice_声
-　　</summary>
-    <figure>
-    <figcaption>日本語/jp</figcaption>
-    <audio
-        controls
-        src="">
-    </audio>
-    <figcaption>en/英語</figcaption>
-      <audio
-        controls
-        src="">
-    </audio>
-</figure>
-</details>
 
 <footer>
   <nav aria-label="サイト内メニュー">
